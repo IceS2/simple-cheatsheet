@@ -9,7 +9,7 @@ Small, Straightforward CLI Tool to interact with your own Cheatsheets o/
 ## Using Cargo
 
 ```bash
-cargo install <TBD>
+cargo install simple-cheatsheet
 ```
 
 # Settings
