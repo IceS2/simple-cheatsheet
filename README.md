@@ -84,7 +84,7 @@ scheat edit <CHEATSHEET>
 - [X] Display a Cheatsheet
 - [X] Display a Section of a Cheatsheet
 - [X] Edit a Cheatsheet
-- [] Proper Testing :sweaty_smile:
-- [] Decent Documentation :sweaty_smile:
-- [] Create a new Cheatsheet
-- [] Define own Cheatsheets in a less verbose format
+- [ ] Proper Testing :sweaty_smile:
+- [ ] Decent Documentation :sweaty_smile:
+- [ ] Create a new Cheatsheet
+- [ ] Define own Cheatsheets in a less verbose format
