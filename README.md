@@ -79,12 +79,12 @@ scheat edit <CHEATSHEET>
 
 # Roadmap
 
-[X] Define own Cheatsheets in Yaml
-[X] List Cheatsheets
-[X] Display a Cheatsheet
-[X] Display a Section of a Cheatsheet
-[X] Edit a Cheatsheet
-[] Proper Testing :sweaty_smile:
-[] Decent Documentation :sweaty_smile:
-[] Create a new Cheatsheet
-[] Define own Cheatsheets in a less verbose format
+ [X] Define own Cheatsheets in Yaml
+ [X] List Cheatsheets
+ [X] Display a Cheatsheet
+ [X] Display a Section of a Cheatsheet
+ [X] Edit a Cheatsheet
+ [] Proper Testing :sweaty_smile:
+ [] Decent Documentation :sweaty_smile:
+ [] Create a new Cheatsheet
+ [] Define own Cheatsheets in a less verbose format
