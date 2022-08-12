@@ -13,3 +13,7 @@ serde_yaml = "0.9"
 clap = { version = "3.2.16", features = ["derive"] }
 config = "0.13.2"
 crossterm = "0.24.0"
+
+[[bin]]
+name = "scheat"
+path = "src/main.rs"
