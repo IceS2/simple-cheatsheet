@@ -4,6 +4,7 @@ version = "0.2.0"
 edition = "2021"
 description = "Simple CLI Tool to define and display your own cheatsheets"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/IceS2/simple-cheatsheet"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
